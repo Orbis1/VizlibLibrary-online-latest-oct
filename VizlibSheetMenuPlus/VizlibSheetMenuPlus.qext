@@ -1,0 +1,23 @@
+ {
+	"name": "Vizlib Sheet Menu Plus",
+	"description": "The Vizlib Sheet Menu Plus is a highly customizable and easy-to-use extension for Qlik Sense and Qlik SAAS that enables you to create a consistent and intuitive user experience by mirroring the design of navigation bars in web apps. The Sheet Menu allows you to group and neatly organize charts for quick and easy access and is an excellent alternative to Mashups.",
+	"icon": "menu",
+	"type": "visualization",
+	"preview" : "VizlibSheetMenuPlus.png",
+	"version": "1.13.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2022 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

@@ -1,0 +1,23 @@
+ {
+	"name": "Vizlib Switch",
+	"description": "Customise and control your charts and dashboards easily with Vizlib Switch. Turn measures, dimensions or colors on and off or switch between the charts in your container grid. Combine this UX capability with your visualisations to make controls and options easy to access and improve the user experience.",
+	"icon": "align-object-right",
+	"type": "visualization",
+	"preview" : "VizlibSwitch.png",
+	"version": "1.2.2",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2018 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

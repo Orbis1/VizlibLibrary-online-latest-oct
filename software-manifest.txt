@@ -1,0 +1,30 @@
+©2024 Vizlib Ltd.
+
+Vizlib Library (Online) - version: latest
+
+Extensions:
+ - VizlibAdvancedTextObject auto
+ - VizlibActivityGauge auto
+ - VizlibBarChart auto
+ - VizlibButton auto
+ - VizlibCalendar auto
+ - VizlibComboChart auto
+ - VizlibContainer auto
+ - VizlibFilter auto
+ - VizlibFlowChart auto
+ - VizlibGridChart auto
+ - VizlibKPI auto
+ - VizlibLineChart auto
+ - VizlibLineObject auto
+ - VizlibMekkoChart auto
+ - VizlibPieChart auto
+ - VizlibPivotTable auto
+ - VizlibRidgelinePlot auto
+ - VizlibScatterChart auto
+ - VizlibSheetMenuPlus auto
+ - VizlibSlider auto
+ - vizlibstorytimeline auto
+ - VizlibSwitch auto
+ - VizlibTable auto
+ - VizlibVennDiagram auto
+ - VizlibWaterfall auto

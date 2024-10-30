@@ -1,0 +1,23 @@
+ {
+	"name": "Vizlib Grid Chart",
+	"description": "The Vizlib Grid Chart represents Individual values which are contained in a matrix and highlighted as colors based on your measure.",
+	"icon": "grid-chart",
+	"type": "visualization",
+	"preview" : "VizlibGridChart.png",
+	"version": "1.3.0",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib Ltd.",
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2022 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

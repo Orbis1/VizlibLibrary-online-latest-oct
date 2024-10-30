@@ -1,0 +1,24 @@
+{
+	"name": " Vizlib Advanced Text Object",
+	"description": "Classic QlikView text object with extended formatting options, HTML support, actions, copy text to clipboard and tooltip features.",
+	"icon": "text",
+	"type": "visualization",
+	"preview": "VizlibAdvancedTextObject.png",		
+	"email": "support@vizlib.com",
+	"version": "1.7.18",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib Ltd.",
+	"homepage": "Vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2017 © Vizlib Ltd. - All rights reserved.",	
+	"tc": "http://www.vizlib.com/termsandconditions",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.2.4"
+	},
+	"src": "/extensions/VizlibAdvancedTextObject/VizlibAdvancedTextObject.png"
+}

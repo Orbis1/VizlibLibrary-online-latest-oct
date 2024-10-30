@@ -1,0 +1,23 @@
+ {
+	"name": " Vizlib Line Object",
+	"description": "The Vizlib Line Object supports a number of formats extending the possible use cases of it. It is the fastest and cleanest way to organise and structure your Qlik Sense Application!",
+	"icon": "edit",
+	"type": "visualization",
+	"preview" : "VizlibLineObject.png",
+	"author": "Vizlib ltd.",
+	"version": "1.4.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },	
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",	
+	"license": "2017-2019 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

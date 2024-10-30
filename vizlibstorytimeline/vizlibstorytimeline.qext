@@ -1,0 +1,23 @@
+{
+	"name": " Vizlib Story Timeline",
+	"description": "Display stories on a visual timeline",
+	"type": "visualization",
+	"email": "support@vizlib.com",
+	"version": "1.3.7",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"icon": "extension",
+	"preview": "vizlibstorytimeline.png",
+	"author": "Vizlib ltd.",
+	"homepage": "www.vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2016-2019 © Vizlib Ltd. - All rights reserved.",
+	"tc": "http://www.vizlib.com/termsandconditions",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.0.x"
+	}
+}

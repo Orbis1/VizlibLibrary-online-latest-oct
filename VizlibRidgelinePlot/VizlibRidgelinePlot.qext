@@ -1,0 +1,23 @@
+ {
+	"name": "Vizlib Ridgeline Plot",
+	"description": "Vizlib Ridgeline Plot immediately generates a display comparing trends or distribution between multiple entities, helping you to quickly and easily find answers for any BI questions you have. With Vizlib Ridgeline Plot, you can help users easily visualize differences in trends between different entities e.g. sales trend over time by product, temperature distribution by month.",
+	"icon": "lui-icon lui-icon--stream lui-list__aside",
+	"type": "visualization",
+	"preview" : "VizlibRidgelinePlot.png",
+	"version": "2.3.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2021 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

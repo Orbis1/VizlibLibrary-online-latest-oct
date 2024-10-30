@@ -1,0 +1,23 @@
+{
+    "name" : " Vizlib Flow Chart",
+    "description" : "Vizlib Flow Chart is a highly customizable, supported, and easy-to-use extension for Qlik Sense which gives you the unique ability to intuitively create and visualize flows and splits between your data.",
+    "icon" : "stream",
+    "type" : "visualization",
+	"preview" : "VizlibFlowChart.png",
+    "version": "2.1.2",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2017-2021 © Vizlib Ltd. - All rights reserved.",
+	"email":	"support@vizlib.com",
+    "tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.0.x"
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "name" : " Vizlib Activity Gauge",
+    "description" : "Vizlib Activity Gauge",
+    "icon" : "gauge-chart",
+    "type" : "visualization",
+	"preview" : "VizlibActivityGauge.png",
+    "version": "2.0.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2017-2021 © Vizlib Ltd. - All rights reserved.",
+	"email":	"support@vizlib.com",
+    "tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.2.x"
+	}
+}

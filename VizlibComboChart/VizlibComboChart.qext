@@ -1,0 +1,22 @@
+{
+    "name" : " Vizlib Combo Chart",
+    "description" : "The Vizlib Combo Chart is a highly-customisable extension for Qlik Sense that allows you to explore trends and compare different sets of data. Combining some of the most powerful features of the Vizlib Bar Chart and Line Chart, it enables you to extract more meaningful insights at a glance. With the possibility to add a benchmark, reference lines and interactivity, you can easily enrich your data with more context and deliver a truly intuitive user experience.",
+    "icon" : "combo-chart",
+    "type" : "visualization",
+	"preview" : "VizlibComboChart.png",    
+    "version": "1.13.6",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2017-2018 © Vizlib Ltd. - All rights reserved.",
+	"email":	"support@vizlib.com",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.0.x"
+	}
+}

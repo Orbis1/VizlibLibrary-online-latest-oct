@@ -1,0 +1,23 @@
+ {
+	"name": "Vizlib Button",
+	"description": "Vizlib Button is designed to help you create a more intuitive user experience. Combined with Vizlib Actions, Vizlib Button is an essential component of a guided analytics experience, helping users to create nifty shortcuts, better navigate your app and discover insights",
+	"icon": "lui-icon lui-icon--align-object-center",
+	"type": "visualization",
+	"preview" : "VizlibButton.png",
+	"version": "1.8.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "Vizlib.com",
+	"email":	"support@vizlib.com",
+	"keywords": "qlik-sense, visualization",	
+	"license": "2018 © Vizlib Ltd. - All rights reserved.",
+	"tc":	"http://www.vizlib.com/termsandconditions/",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

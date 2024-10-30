@@ -1,0 +1,24 @@
+{
+	"name": " Vizlib Venn Diagram",
+	"description": "Vizlib Venn Diagram provides the the ability to easily create a Venn Diagram simply by dragging and dropping available dimensions and metrics and immediately creating visual representations of interrelations of data.",
+	"icon": "scatter-chart",
+	"type": "visualization",
+	"preview": "VizlibVennDiagram.png",
+	"version": "1.6.9",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"homepage": "vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "2017 © Vizlib Ltd. - All rights reserved.",
+
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	},
+	"src": "/extensions/VizlibVennDiagram/VizlibVennDiagram.png"
+
+}

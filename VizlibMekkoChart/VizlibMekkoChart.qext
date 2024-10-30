@@ -1,0 +1,20 @@
+{
+    "name": "VizlibMekkoChart",
+    "version": "1.1.6",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+    "description": "Seeing multiple dimensions over time is sometimes very informative. With the Vizlib Mekko Chart, it is possible to display the share of a total over time. You can quickly understand how your product mix is changing while keeping the full flexibility of Qlik Sense",
+    "license": "Vizlib ltd",
+    "bundle": {
+        "id": "vizlib-bundle",
+        "name": "Vizlib Library",
+        "description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components - www.vizlib.com"
+    },
+    "type": "visualization",
+    "icon": "table",
+    "preview": "VizlibMekkoChart.png",
+    "author": "Vizlib ltd."
+}

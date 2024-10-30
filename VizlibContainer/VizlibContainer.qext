@@ -1,0 +1,21 @@
+{
+	"name": " Vizlib Container Grid",
+	"description": "Vizlib Container Grid is a flexible container extension for Qlik Sense which gives you the ability to better organize your charts and improve the user experience for a more guided analytics experience. Its powerful features and rich collections of customization options (Tabs/Accordion/Carousel/Dropdown) gives you all the flexibility you need to create a fantastically user-friendly dashboard for Qlik Sense",
+	"type": "visualization",
+	"icon": "application",
+	"version": "2.15.1",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib Ltd.",
+	"homepage": "https://www.vizlib.com",
+	"email": "support@vizlib.com",
+	"keywords": "qlik-sense, visualization",
+	"copyright": "2018 © Vizlib - All rights reserved.",
+	"preview": "VizlibContainer.png",
+    "dependencies": {
+		"qlik-sense": ">=3.1.x"
+	}
+}

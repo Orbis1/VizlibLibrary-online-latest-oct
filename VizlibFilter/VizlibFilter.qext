@@ -1,0 +1,20 @@
+ {
+	"name": " Vizlib Filter",
+    "description": "A powerful filter which permits you to select values in a user-friendly way with added features as one-selected-value while giving you more control over the look and feel of it. Choose from dropdowns, checkboxes, buttons and listboxes.",
+	"icon": "filterpane",
+	"type": "visualization",
+	"preview": "VizlibFilter.png",
+	"version": "3.12.2",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"keywords": "qlik-sense, visualization",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	},
+	"src": "/extensions/VizlibFilter/VizlibFilter.png"
+}

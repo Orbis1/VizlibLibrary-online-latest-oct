@@ -1,0 +1,19 @@
+ {
+	"name": " Vizlib Slider",
+	"description": "The Vizlib Slider is a highly customisable, all-in-one component for Qlik Sense that gives users the option to define and set variable values in a slider. Recreating the flexibility and features of QlikView within the Qlik Sense environment, the Vizlib Slider empowers users to control their dashboards through Slider actions and create a powerful data discovery experience. With a diverse range of presets and the ability to customise colour as well as add images or GIFs, the Vizlib Slider can seamlessly blend in within any Qlik Sense app.",
+	"icon": "effects",
+	"type": "visualization",
+	"preview" : "VizlibSlider.png",
+	"version": "1.4.0",
+	"bundle": {
+		"id": "vizlib-bundle",
+		"name": "Vizlib Library",
+		"description": "Vizlib is an advanced extension library for Qlik Sense offering a better way to communicate data by leveraging vizualisations, tables and control components. ........................................................... www.vizlib.com"
+    },
+	"author": "Vizlib ltd.",
+	"keywords": "qlik-sense, visualization",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
